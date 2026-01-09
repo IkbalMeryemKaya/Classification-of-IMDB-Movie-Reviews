@@ -1,0 +1,14 @@
+import nltk                     # Natural Language Processing library
+nltk.download('punkt')          # Sentence and word tokenization
+nltk.download('punkt_tab')      # Tokenization support files
+nltk.download('stopwords')      # Common stopwords for text cleaning
+nltk.download('wordnet')        # WordNet for lemmatization
+
+----------------for web scrapping and data collection----------------
+nltk → text preprocessing
+selenium, webdriver-manager → scraping
+beautifulsoup4, lxml → HTML parsing
+pandas, numpy → data handling
+scikit-learn → ML models
+matplotlib, seaborn → plots
+tensorflow → MLP (deep learning)
